@@ -29,6 +29,8 @@ do
 done
 ```
 
+### Fitzpatrick data
+Fitzpatrick data is stored in the data/ folder in a folder called fitzpatrick_data/ so that it may be concatenated to existing data
 ### Model Illustration
 
 ![](https://github.com/haqishen/SIIM-ISIC-Melanoma-Classification-1st-Place-Solution/blob/master/figure1.png)
